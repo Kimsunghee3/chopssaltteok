@@ -27,7 +27,7 @@ $ git push origin main
 ex) git reset --hard 32a8ecefe2481e12df2f4a65775e80c120aba44a
 
 <!-- 작업 내용 working directory로 보냄 -->
-- git reset --mixed 
+- git reset --mixed // default
 ex) git reset --mixed 32a8ecefe2481e12df2f4a65775e80c120aba44a
 <!-- 작업 내용 staging area로 보냄 -->
 - git reset --soft
